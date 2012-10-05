@@ -20,6 +20,8 @@ It is assumed that the two streams are connected to each other in some way.
 
 `npm install duplexer`
 
+`component install juliangruber/duplexer`
+
 ## Tests
 
 `make test`

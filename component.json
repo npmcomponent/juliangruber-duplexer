@@ -1,0 +1,11 @@
+{
+  "name": "duplexer",
+  "repo": "juliangruber/duplexer",
+  "description": "Creates a duplex stream",
+  "version": "0.0.2",
+  "keywords": [],
+  "dependencies": {
+    "juliangruber/stream": "*"
+  },
+  "scripts": ["index.js"]
+}
