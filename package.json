@@ -1,32 +1,10 @@
 {
-  "name": "duplexer",
-  "version": "0.0.2",
+  "name": "juliangruber-duplexer",
   "description": "Creates a duplex stream",
+  "version": "0.0.2",
   "keywords": [],
-  "author": "Raynos <raynos2@gmail.com>",
-  "repository": "git://github.com/Raynos/duplexer.git",
-  "main": "index",
-  "homepage": "https://github.com/Raynos/duplexer",
-  "contributors": [
-    {
-      "name": "Jake Verbaten"
-    }
-  ],
-  "bugs": {
-    "url": "https://github.com/Raynos/duplexer/issues",
-    "email": "raynos2@gmail.com"
+  "dependencies": {
+    "juliangruber-stream": "git://github.com/npmcomponent/juliangruber-stream.git"
   },
-  "dependencies": {},
-  "devDependencies": {
-    "through": "~0.1.4"
-  },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://github.com/Raynos/duplexer/raw/master/LICENSE"
-    }
-  ],
-  "scripts": {
-    "test": "make test"
-  }
+  "license": "MIT"
 }

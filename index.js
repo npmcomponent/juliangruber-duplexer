@@ -1,4 +1,4 @@
-var Stream = require("stream")
+var Stream = require('juliangruber-stream')
     , writeMethods = ["write", "end", "destroy"]
     , readMethods = ["resume", "pause"]
     , readEvents = ["data", "close"]
